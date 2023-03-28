@@ -1,10 +1,11 @@
+<div align="center">
 ## Hi there 👋, my name is ChangHeonKim
 I wanna be a full stack developer.
 
-- 🌱 I’m currently learning Frontend, Backend, Java, Javascript ...
-- 📫 How to reach me: heon5652@gmail.com 
+🌱 I’m currently learning Frontend, Backend, Java, Javascript ...
+📫 How to reach me: heon5652@gmail.com 
 
-<div align="center">
+
 
   #### ✏ Stack  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
