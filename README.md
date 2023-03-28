@@ -1,4 +1,5 @@
-## Hi there 👋, my name is ChangHeonKim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=21&duration=4000&pause=200&color=0D3C95&center=true&vCenter=true&multiline=true&height=60&lines=Hi+there+%F0%9F%91%8B%2C+I'm+ChangHeonKim!)](https://git.io/typing-svg)
+
 I wanna be a full stack developer.
 
 🌱 I’m currently learning Frontend, Backend, Java, Javascript ...
