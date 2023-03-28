@@ -1,5 +1,3 @@
-<div align="center">
-  
 ## Hi there 👋, my name is ChangHeonKim
 I wanna be a full stack developer.
 
@@ -7,6 +5,7 @@ I wanna be a full stack developer.
   
 📫 How to reach me: heon5652@gmail.com 
 
+<div float="left">
   #### ✏ Stack  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
